@@ -1,3 +1,3 @@
 # hello-world
 Exploring github for the first time
-No previous experience
+Learning is fun
